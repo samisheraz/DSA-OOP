@@ -1,6 +1,9 @@
 git add .
 git commit -m "commit message"
 git push
+git fetch
+git checkout sami3
+
 sami
 
 git pull 

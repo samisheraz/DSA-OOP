@@ -5,6 +5,7 @@ git fetch
 git checkout sami3
 
 sami
+ammar
 
 git pull 
 for getting latest changes
